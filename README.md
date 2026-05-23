@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hubert Faux mutu
 
-<!--
-**hubert-art/hubert-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Hubert. I don't know English but I'm learning.
 
-Here are some ideas to get you started:
+## Education
+**Bachelor's ddeegree in Software engineering at _USIU-Africa_**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+```py
+Hello, World!
+```
+```cpp
+Hello, World!
+```
+
+```java
+Hello, World!
+```
+
+```ts
+Hello, World!
+```
+
+## Projects:
+
+1. First
+2. Second
+3. Third
+4. Fourth
+5. ....
