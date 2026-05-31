@@ -1,6 +1,6 @@
 # Hubert Faux mutu
 
-Hi! I'm Hubert. I don't know English but I'm learning.
+Hi! I'm Hubert.
 
 ## Education
 **Bachelor's ddeegree in Software engineering at _USIU-Africa_**
@@ -24,7 +24,4 @@ Hello, World!
 ## Projects:
 
 1. First
-2. Second
-3. Third
-4. Fourth
-5. ....
+
