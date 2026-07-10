@@ -2,7 +2,7 @@
 
 # Hi, I'm Hubert Lubula
 
-### Software Engineering Student, I do Front-End Developer, UI/UX Designer and project management.
+### Software Engineering Student, I do Front-End, UI/UX Designer and project management.
 
 *"Building digital experiences that solve real-world problems."*
 
