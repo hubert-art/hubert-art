@@ -110,8 +110,6 @@ A modern marketplace allowing users to discover, sell, and purchase products thr
 * Artificial Intelligence
 * Cloud Computing
 * DevOps
-* Machine Learning
-
 ---
 
 # 2026 Goals
