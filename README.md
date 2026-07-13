@@ -8,8 +8,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;React+%7C+TypeScript+Developer;Java+C#;
-  UI%2FUX+Designer;Building+Technology+for+Africa" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;React+%7C+TypeScript+Developer;Java; C + C#; UI%2FUX+Designer;Building+Technology+for+Africa" />
 
 </div>
 
